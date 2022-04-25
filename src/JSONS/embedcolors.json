@@ -1,0 +1,10 @@
+{
+    "pingembed": "#4CA3DD",
+    "errorColor": "#FF0000",
+    "currentlyPlaying": "#ffc4f8",
+    "songSelection": "#3afce9",
+    "paused": "#fc8b3a",
+    "skipped": "#c07dfa",
+    "stopped": "#f02626",
+    "successfull": "#0fb82b"
+}
